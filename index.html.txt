@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Finanzas Rurales</title>
+<limk rel="stylesheet" href="css/estilos.css">
+  </head>
+  <body>
+    <h1>¡Bienvenido a Finanzas Rurales!</h1>
+    <p>Aprende a cuidar tu dinero desde el campo.</p>
+  </body>
+</html>
